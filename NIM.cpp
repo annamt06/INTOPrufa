@@ -35,7 +35,8 @@ int main( )
 	do
 	{
 		cout << endl << endl << endl;
-		cout << "                ADALVALMYND " << endl << endl;
+		cout << "                ADALVALMYND " << endl;
+		cout << "	         ANNAMARIA THORSTEINSDOTTIR! " << endl <<endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
